@@ -1,0 +1,12 @@
+{
+  "name": "plugin-null-safety",
+  "version": "1.0.0",
+  "description": "foo?.bar?.baz?() => (foo) && (foo.bar) && (foo.bar.baz) && (foo.bar.baz())",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "walfud",
+  "license": "MIT"
+}
